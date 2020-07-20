@@ -8,25 +8,11 @@
       "observacao": "Lembrar de verificar as baterias dos equipamentos"
     },
     {
-      "id": 2,
-      "descricao": "Aula amanhã",
-      "dt_previsao": "2020-07-20",
-      "dt_conclusao": "null",
-      "observacao": "Fazer edições e cores"
-    },
-    {
       "descricao": "Depois de gravar ir almoçar",
-      "dt_previsao": null,
-      "dt_conclusao": null,
-      "observacao": null,
+      "dt_previsao": "2020-12-12",
+      "dt_conclusao": "2020-07-20",
+      "observacao": "show",
       "id": 3
-    },
-    {
-      "descricao": "Depois de gravar ir almoçar",
-      "dt_previsao": null,
-      "dt_conclusao": null,
-      "observacao": null,
-      "id": 4
     }
   ]
 }
